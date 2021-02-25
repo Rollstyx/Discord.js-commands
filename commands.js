@@ -5,7 +5,7 @@ module.exports = {
     description: 'commands',
     execute(client, message, args) {
     
-
+//feel free to edit the text below :D
         message.channel.send({
             embed: {
                 color: `#00ddff`,
